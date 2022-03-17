@@ -2,6 +2,14 @@
 
 MisskeyにTweetを流すようにするやつ  
 
+## 必要ライブラリ
+
+```
+datetime
+tweepy
+requests
+Misskey.py
+```
 
 config.example.pyをconfig.pyにリネームして使用してください。
 
